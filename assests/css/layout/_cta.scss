@@ -1,0 +1,15 @@
+@import "../base/color";
+@import "mixing_items";
+
+.cta-area{
+  color: $white;
+  h4{
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 700;
+  }
+  p{
+    margin: 30px 0;
+  }
+
+}

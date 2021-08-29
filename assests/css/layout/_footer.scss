@@ -1,0 +1,13 @@
+@import "../base/color";
+@import "mixing_items";
+
+.footer-area{
+  background-color: $black;
+  padding: 20px;
+  p{
+  text-align: center;
+    color: $white;
+
+  }
+
+}
